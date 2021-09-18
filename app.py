@@ -56,4 +56,23 @@ if __name__ == '__main__':
 
 # Class definition for Flask Class
 
+# New variables to be defined
+# New variables to be defined
+# New variables to be defined
+# New variables to be defined
+# New variables to be defined
+# New variables to be defined
+# New variables to be defined
+# New variables to be defined
+# New variables to be defined
+# New variables to be defined
+# New variables to be defined
+# New variables to be defined
+# New variables to be defined
+# New variables to be defined
+# New variables to be defined
+# New variables to be defined
 
+
+
+# New variables to be defined
